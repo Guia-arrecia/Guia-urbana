@@ -1,0 +1,6 @@
+git clone https://github.com/TU_USUARIO/guia-arrecia.git
+cd guia-absurda
+# Crea el archivo index.html aquí
+git add index.html
+git commit -m "Subida inicial"
+git push origin main
